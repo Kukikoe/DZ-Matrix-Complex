@@ -1,0 +1,7 @@
+C:\Users\Яна\source\repos\ComplexNumber\ComplexNumber\bin\Debug\ComplexNumber.exe.config
+C:\Users\Яна\source\repos\ComplexNumber\ComplexNumber\bin\Debug\ComplexNumber.exe
+C:\Users\Яна\source\repos\ComplexNumber\ComplexNumber\bin\Debug\ComplexNumber.pdb
+C:\Users\Яна\source\repos\ComplexNumber\ComplexNumber\obj\Debug\ComplexNumber.csprojResolveAssemblyReference.cache
+C:\Users\Яна\source\repos\ComplexNumber\ComplexNumber\obj\Debug\ComplexNumber.csproj.CoreCompileInputs.cache
+C:\Users\Яна\source\repos\ComplexNumber\ComplexNumber\obj\Debug\ComplexNumber.exe
+C:\Users\Яна\source\repos\ComplexNumber\ComplexNumber\obj\Debug\ComplexNumber.pdb
